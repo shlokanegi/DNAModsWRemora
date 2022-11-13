@@ -1,6 +1,6 @@
 '''
 Author: Shloka Negi, shnegi@ucsc.edu
-Usage: ./downloadFast5.py
+Usage: python3 downloadFast5.py
 Purpose: Script to download all T2T-CHM13 nanopore long-read fast5 partition files
 Conda environment: /public/home/shnegi/.conda/envs/DNAmod
 
